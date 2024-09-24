@@ -8,7 +8,7 @@ export default defineConfig({
   base: '/robot-vitepress/',
 
   themeConfig: {
-    logo: 'https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png',
+    // logo: 'https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png',
     search: {
       provider: 'local'
     },
@@ -26,7 +26,6 @@ export default defineConfig({
           { text: '简介', link: '/introduction' },
           { text: '快速开始', link: '/gettingStarted' },
           { text: '功能使用', link: '/function' },
-
         ],
       }
     ],
