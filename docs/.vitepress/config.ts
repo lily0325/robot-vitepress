@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Leet-Robot',
   description: '基于 NodeJs 实现的 QQ BOT',
-
+  base:'/robot-vitepress/',
   themeConfig: {
     nav: [
       { text: '指南', link: '/introduction' },
