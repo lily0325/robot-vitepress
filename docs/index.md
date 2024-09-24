@@ -8,8 +8,8 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /gettingStarted
+      link: /introduction
     - theme: alt
       text: GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/lily0325/robot-vitepress
 ---
