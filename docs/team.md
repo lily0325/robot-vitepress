@@ -18,7 +18,6 @@ const members = [
       { icon: 'github', link: 'https://github.com/lily0325' },
     ]
   },
-  
 ]
 </script>
 
