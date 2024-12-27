@@ -9,11 +9,12 @@
 
 添加HTTP事件上报地址 `http:127.0.0.1:8888/receive`
 
-## 启动Leet-Robot {#启动Leet-Robot}
+## 打包Leet-Robot {#打包Leet-Robot}
 获取`Leet-Robot`源码(联系Leet)
 ```js
 // config.js
 const self_qq = 'robot qq号码'
+//新版robot能够自动识别QQ
 ```
 安装依赖
 ```sh
@@ -44,3 +45,5 @@ window系统在命令行界面
 ```sh
 node-robot.exe
 ```
+
+如果已经有exe文件就不需要重新打包，直接双击启动自动识别单个QQ
